@@ -1,4 +1,5 @@
 # demo
 ```groovy
-@Library[('tsl')]) _
+ // Using @Library annotation (for global variables and classes)
+    @Library('mySharedLibrary') _ 
 ```
