@@ -1,4 +1,4 @@
 # demo
 ```groovy
-@Library(['tsl']) _
+@Library[('tsl')]) _
 ```
